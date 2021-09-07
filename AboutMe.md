@@ -23,9 +23,10 @@ Here are some of the foods and drinks that I enjoy the most. The table located b
 
 >"String Matching Algorithm is also called "String Searching Algorithm." This is a vital class of string algorithm is declared as "this is the method to find a place where one is several strings are found within the larger string." -[Link to Info](https://www.javatpoint.com/daa-string-matching-introduction)
 
-## Example Code for String Matching Algorithm
-'''
-vector<int> rabin_karp(string const& s, string const& t) {
+Example Code for String Matching Algorithm
+
+```
+    vector<int> rabin_karp(string const& s, string const& t) {
     const int p = 31; 
     const int m = 1e9 + 9;
     int S = s.size(), T = t.size();
@@ -48,8 +49,8 @@ vector<int> rabin_karp(string const& s, string const& t) {
         if (cur_h == h_s * p_pow[i] % m)
             occurences.push_back(i);
     }
-    return occurences;}
-
-'''
+    return occurences;
+}
+```
 
 [Link to Code](https://cp-algorithms.com/string/rabin-karp.html)
