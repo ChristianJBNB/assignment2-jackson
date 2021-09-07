@@ -9,3 +9,7 @@
 1. Follow I-15 N and I-70 E to Page St in KCMO. Take exit 2E from I-70 E
     1. You are on this road for 1616 miles
 1. Take Oak St to your destination
+
+- Appetite
+- Mahomes Jersey
+- Sunglasses
