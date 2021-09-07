@@ -15,5 +15,6 @@ Here are some of the foods and drinks that I enjoy the most. The table located b
 | Boulevard Tank 7 | Boulevard Brewery | $4.00        |
 | Ice Cream        | Dairy Queen       | $5.00        |
 ---
->"640K ought to be enough (memory) for anybody." -*Bill Gates* \n
+>"640K ought to be enough (memory) for anybody." -*Bill Gates*
+
 >"I ain’t gonna be no escape-goat!" -*Karl Malone.*
