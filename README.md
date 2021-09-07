@@ -13,3 +13,5 @@
 - Appetite
 - Mahomes Jersey
 - Sunglasses
+
+[AboutMe](https://github.com/ChristianJBNB/assignment2-jackson/blob/main/AboutMe.md)
